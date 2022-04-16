@@ -44,6 +44,3 @@ def print_linux_profile(profile):
     
 if __name__ == "__main__":
     print_profiles()
-
-# run
-#   $ python get_wifi_passwords.py
